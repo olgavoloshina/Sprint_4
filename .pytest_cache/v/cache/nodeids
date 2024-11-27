@@ -1,0 +1,17 @@
+[
+  "tests.py::TestBooksCollector::test_add_book_in_favorites",
+  "tests.py::TestBooksCollector::test_add_book_in_favorites_invalid",
+  "tests.py::TestBooksCollector::test_add_new_book[-False-0]",
+  "tests.py::TestBooksCollector::test_add_new_book[\\u041c\\u0430\\u0448\\u0438\\u043d\\u0430 \\u0432\\u0440\\u0435\\u043c\\u0435\\u043d\\u0438-True-1]",
+  "tests.py::TestBooksCollector::test_add_new_book_add_two_books",
+  "tests.py::TestBooksCollector::test_book_has_no_genre_after_adding",
+  "tests.py::TestBooksCollector::test_delete_book_from_favorites",
+  "tests.py::TestBooksCollector::test_get_books_for_children",
+  "tests.py::TestBooksCollector::test_get_books_with_specific_genre[books_and_genres0-\\u0424\\u0430\\u043d\\u0442\\u0430\\u0441\\u0442\\u0438\\u043a\\u0430-expected_books0]",
+  "tests.py::TestBooksCollector::test_get_books_with_specific_genre[books_and_genres1-\\u0423\\u0436\\u0430\\u0441\\u044b-expected_books1]",
+  "tests.py::TestBooksCollector::test_get_books_with_specific_genre[books_and_genres2-\\u041a\\u043e\\u043c\\u0435\\u0434\\u0438\\u044f-expected_books2]",
+  "tests.py::TestBooksCollector::test_get_list_of_favorites_books",
+  "tests.py::TestBooksCollector::test_set_book_genre[\\u041c\\u0430\\u0448\\u0438\\u043d\\u0430 \\u0432\\u0440\\u0435\\u043c\\u0435\\u043d\\u0438-\\u0424\\u0430\\u043d\\u0442\\u0430\\u0441\\u0442\\u0438\\u043a\\u0430-\\u0424\\u0430\\u043d\\u0442\\u0430\\u0441\\u0442\\u0438\\u043a\\u0430]",
+  "tests.py::TestBooksCollector::test_set_book_genre[\\u041e\\u043b\\u043b\\u0435 \\u041b\\u0443\\u043a\\u043e\\u0439\\u0435-\\u0421\\u043a\\u0430\\u0437\\u043a\\u0438-]",
+  "tests.py::TestBooksCollector::test_set_book_genre[\\u0421\\u0443\\u043c\\u0435\\u0440\\u043a\\u0438-\\u0423\\u0436\\u0430\\u0441\\u044b-\\u0423\\u0436\\u0430\\u0441\\u044b]"
+]
